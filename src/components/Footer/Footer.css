@@ -1,0 +1,17 @@
+footer{
+    background-color: #2C3E50;
+    padding: 20px;
+}
+footer h3{
+    text-transform: uppercase;
+}
+
+
+.icons li i{
+    border-radius: 50%;
+    font-size: 18px;
+    border: 1px solid white;
+    width: fit-content;
+    padding: 8px;
+    
+}
